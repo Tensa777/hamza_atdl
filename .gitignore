@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local archive and downloaded dataset files
+Hamza_atdl.zip
+cifar-10-batches-py/
+
+# Local experiment outputs and caches
+*.log
+*.tmp
+.pytest_cache/
+.mypy_cache/
+
+# Large trained model weights (use release storage or Git LFS for these)
+*.pth

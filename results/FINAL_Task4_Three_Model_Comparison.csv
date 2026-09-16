@@ -1,0 +1,4 @@
+,Type,Best Epoch,Train Accuracy,Evaluation Accuracy,Loss,Gap,Parameters
+ResNet34 Teacher,FP32 Teacher,96,99.98,94.91,0.6399,5.07,21282122
+ResNet18 Baseline,FP32 Baseline,98,100.0,94.58,0.2609,5.42,11173983
+Ternary ResNet18 Student,Ternary + KD + QAT,139,91.03,88.14,,2.89,11173983

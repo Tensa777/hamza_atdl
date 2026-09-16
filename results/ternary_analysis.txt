@@ -1,0 +1,17 @@
+TERNARY RESNET18 STUDENT ANALYSIS
+=================================
+
+Total weights analysed: 11,164,352
+Negative weights: 6,199,343
+Zero weights: 0
+Positive weights: 4,965,009
+
+Negative percentage: 55.53%
+Zero percentage: 0.00%
+Positive percentage: 44.47%
+Sparsity: 0.00%
+
+Parameters: 11,173,983
+FP32 theoretical storage: 42.63 MB
+Ternary theoretical storage: 2.66 MB
+Theoretical compression ratio: 16.0:1
