@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 
+# Local archive is too large for this repository
+Hamza_atdl.zip
+
 # Local experiment outputs and caches
 *.log
 *.tmp
